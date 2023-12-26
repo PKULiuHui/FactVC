@@ -52,4 +52,4 @@ python factvc_corr.py --dataset youcook2
 
 ## Acknowledgements
 
-We acknowledge the [EMScore project](https://github.com/ShiYaya/emscore) that we based on our work:
+We acknowledge the [EMScore project](https://github.com/ShiYaya/emscore) that we based on our work
